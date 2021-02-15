@@ -1,2 +1,2 @@
 # discord-bulk-account-creator
-unfinished discord bulk account creator  features: pool thread automization  to do: captcha solver
+unfinished discord bulk account creator <br> features:  <br>pool  <br>thread automization   <br> to do: captcha solver
